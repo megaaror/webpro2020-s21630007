@@ -18,7 +18,7 @@ const mhs1 = {
     sudahLulus: true,
     alamat: {
         jalan: "Jln. Arnold Mononutu",
-        kecamatan: "Airmadidi",
+        kecamatan: "Airmadidi Atas",
         kabupaten: "Minahasa Utara",
     },
     IPSemester: [3.05, 3.25, 3.0, 3.4],
