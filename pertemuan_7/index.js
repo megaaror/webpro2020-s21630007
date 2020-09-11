@@ -2,7 +2,7 @@
     1. Conditional
 */
 
-let nilaiMega = 85;
+let nilaiMega = 95;
 
 if (nilaiMega > 80) {
   console.log("SANGAT MEMUASKAN");
