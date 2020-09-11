@@ -33,5 +33,5 @@ console.log(typeof info);
 */
 let bilangan = 10;
 
-console.log(bilangan == "10"); //floose equality
-console.log(bilangan === "10"); //strict equality
+console.log(bilangan == "20"); //floose equality
+console.log(bilangan === "20"); //strict equality
