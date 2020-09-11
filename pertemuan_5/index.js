@@ -1,6 +1,6 @@
 // Array
 let mhs =[];
-mhs[0] = "John"
+mhs[0] = "Mega"
 mhs[1] = "Bob"
 mhs[2] = "Jane"
 mhs[3] = "Peter"
