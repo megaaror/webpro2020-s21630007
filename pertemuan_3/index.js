@@ -14,8 +14,8 @@
 */
 
 const firstName = 'Mega';
-let age = 20;
-age = 20;
+let age = 21;
+age = 21;
 const isMarried = false;
 
 console.log(typeof firstName);
