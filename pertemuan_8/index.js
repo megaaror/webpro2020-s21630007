@@ -15,6 +15,6 @@ function getAccountSummary(){
     console.log("Total pengeluaran "+ account.name, "adalah Rp. "+ total);
 }
 
-addExpenses('Beli Baju', 250000);
+addExpenses('Beli Baju', 350000);
 addExpenses('Beli Tas', 200000);
 getAccountSummary();
