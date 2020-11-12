@@ -1,4 +1,4 @@
-/ const hitung = (a,b,c) =>{
+//const hitung = (a,b,c) =>{
 //     return a+b+c;
 // }
 
